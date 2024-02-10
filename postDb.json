@@ -1,0 +1,121 @@
+[
+    {
+        "userId": 1,
+        "id": 1,
+        "title": "Introduction to React.js",
+        "body": "In this post, we'll cover the basics of React.js and its core concepts.",
+        "image": "https://source.unsplash.com/random/800x600/?reactjs"
+    },
+    {
+        "userId": 1,
+        "id": 2,
+        "title": "State Management in React.js",
+        "body": "Managing state is crucial in React.js applications. Let's explore various state management techniques.",
+        "image": "https://source.unsplash.com/random/800x600/?reactjs"
+    },
+    {
+        "userId": 1,
+        "id": 3,
+        "title": "React.js Hooks Explained",
+        "body": "Hooks introduced in React 16.8 offer a new way to use state and lifecycle methods. Learn how to leverage hooks effectively.",
+        "image": "https://source.unsplash.com/random/800x600/?reactjs"
+    },
+    {
+        "userId": 1,
+        "id": 4,
+        "title": "Building a React.js SPA",
+        "body": "Single Page Applications (SPAs) are common in modern web development. Let's build one using React.js.",
+        "image": "https://source.unsplash.com/random/800x600/?reactjs"
+    },
+    {
+        "userId": 1,
+        "id": 5,
+        "title": "Testing React.js Components",
+        "body": "Testing is an integral part of software development. Learn how to write tests for your React.js components.",
+        "image": "https://source.unsplash.com/random/800x600/?reactjs"
+    },
+    {
+        "userId": 1,
+        "id": 6,
+        "title": "React.js Best Practices",
+        "body": "Discover the best practices for writing clean and maintainable React.js code.",
+        "image": "https://source.unsplash.com/random/800x600/?reactjs"
+    },
+    {
+        "userId": 1,
+        "id": 7,
+        "title": "Advanced React.js Patterns",
+        "body": "Explore advanced patterns and techniques for building sophisticated React.js applications.",
+        "image": "https://source.unsplash.com/random/800x600/?reactjs"
+    },
+    {
+        "userId": 1,
+        "id": 8,
+        "title": "Optimizing Performance in React.js",
+        "body": "Performance optimization is crucial for delivering a smooth user experience. Learn how to optimize React.js applications for better performance.",
+        "image": "https://source.unsplash.com/random/800x600/?reactjs"
+    },
+    {
+        "userId": 1,
+        "id": 9,
+        "title": "Server-Side Rendering with React.js",
+        "body": "Server-Side Rendering (SSR) improves SEO and initial page load times. Let's implement SSR in a React.js application.",
+        "image": "https://source.unsplash.com/random/800x600/?reactjs"
+    },
+    {
+        "userId": 1,
+        "id": 10,
+        "title": "React.js and TypeScript Integration",
+        "body": "TypeScript brings static typing to JavaScript, enhancing code quality and developer productivity. Learn how to integrate TypeScript with React.js.",
+        "image": "https://source.unsplash.com/random/800x600/?reactjs"
+    },
+    {
+        "userId": 2,
+        "id": 11,
+        "title": "React.js vs Angular: A Comparison",
+        "body": "React.js and Angular are two popular JavaScript frameworks. Let's compare their features, performance, and use cases.",
+        "image": "https://source.unsplash.com/random/800x600/?reactjs"
+    },
+    {
+        "userId": 2,
+        "id": 12,
+        "title": "Migrating from Angular to React.js",
+        "body": "Considering migrating your project from Angular to React.js? Here are some tips and best practices for a smooth transition.",
+        "image": "https://source.unsplash.com/random/800x600/?reactjs"
+    },
+    {
+        "userId": 2,
+        "id": 13,
+        "title": "React.js UI Design Principles",
+        "body": "User Interface (UI) design plays a crucial role in the success of a React.js application. Learn about UI design principles and best practices.",
+        "image": "https://source.unsplash.com/random/800x600/?reactjs"
+    },
+    {
+        "userId": 3,
+        "id": 14,
+        "title": "React.js for Beginners: Getting Started Guide",
+        "body": "New to React.js? This guide will walk you through the basics and help you get started with building your first React.js application.",
+        "image": "https://source.unsplash.com/random/800x600/?reactjs"
+    },
+    {
+        "userId": 3,
+        "id": 15,
+        "title": "React.js Component Lifecycle Explained",
+        "body": "Understanding the component lifecycle is essential for building React.js applications. Let's dive into each lifecycle method and its purpose.",
+        "image": "https://source.unsplash.com/random/800x600/?reactjs"
+    },
+    {
+        "userId": 3,
+        "id": 16,
+        "title": "Building Responsive UIs with React.js",
+        "body": "In today's world, it's crucial for applications to be responsive across various devices. Learn how to build responsive UIs with React.js.",
+        "image": "https://source.unsplash.com/random/800x600/?reactjs"
+    },
+    {
+        "userId": 3,
+        "id": 17,
+        "title": "Advanced State Management in React.js",
+        "body": "As React.js applications grow in complexity, managing state becomes more challenging. Explore advanced state management techniques in React.js.",
+        "image": "https://source.unsplash.com/random/800x600/?reactjs"
+    }
+]
